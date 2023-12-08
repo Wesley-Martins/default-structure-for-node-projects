@@ -1,0 +1,1 @@
+# default-structure-for-node-projects
