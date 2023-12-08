@@ -1,0 +1,2 @@
+INSERT INTO ratings(user_email, rating, movie_id)
+VALUES('joao318s@gmail.com', 4.5, 1678)
